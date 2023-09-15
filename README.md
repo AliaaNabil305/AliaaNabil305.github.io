@@ -1,11 +1,11 @@
 <h2 align="center">
   My Portfolio <br/>
-  <a href="https://aliaanabil305-github-io-aliaanabil305.vercel.app/" target="_blank">Aliaa Nabil</a>
+  <a href="https://aliaanabil305-github-io.vercel.app/" target="_blank">Aliaa Nabil</a>
 </h2>
 
 Built With
 
- My personal portfolio <a href="https://aliaanabil305-github-io-aliaanabil305.vercel.app/" target="_blank">Aliaa Nabil</a> which features some of my github projects as well as my resume and technical skills.<br/> 
+ My personal portfolio <a href="https://aliaanabil305-github-io.vercel.app/" target="_blank">Aliaa Nabil</a> which features some of my github projects as well as my resume and technical skills.<br/> 
 
 This project was built using these technologies.
 
